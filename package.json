@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DongwookJeong/repositorybuild/issues"
   },
-  "homepage": "https://github.com/DongwookJeong/repositorybuild#readme"
+  "homepage": "https://github.com/DongwookJeong/repositorybuild#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
